@@ -1,0 +1,59 @@
+[
+  { "count" : 2110 }
+, { "name" : "/features/features.0/features.0.0/Conv + /features/features.0/features.0.2/Clip", "timeMs" : 139.951, "averageMs" : 0.0663275, "percentage" : 4.73725 }
+, { "name" : "Reformatting CopyNode for Input Tensor 0 to /features/features.1/conv/conv.0/conv.0.0/Conv + /features/features.1/conv/conv.0/conv.0.2/Clip", "timeMs" : 77.5846, "averageMs" : 0.03677, "percentage" : 2.62619 }
+, { "name" : "/features/features.1/conv/conv.0/conv.0.0/Conv + /features/features.1/conv/conv.0/conv.0.2/Clip", "timeMs" : 98.5572, "averageMs" : 0.0467096, "percentage" : 3.33609 }
+, { "name" : "/features/features.1/conv/conv.1/Conv", "timeMs" : 71.4184, "averageMs" : 0.0338476, "percentage" : 2.41747 }
+, { "name" : "/features/features.2/conv/conv.0/conv.0.0/Conv + /features/features.2/conv/conv.0/conv.0.2/Clip", "timeMs" : 132.896, "averageMs" : 0.0629839, "percentage" : 4.49844 }
+, { "name" : "/features/features.2/conv/conv.1/conv.1.0/Conv + /features/features.2/conv/conv.1/conv.1.2/Clip", "timeMs" : 135.697, "averageMs" : 0.0643112, "percentage" : 4.59324 }
+, { "name" : "/features/features.2/conv/conv.2/Conv", "timeMs" : 49.0422, "averageMs" : 0.0232427, "percentage" : 1.66004 }
+, { "name" : "/features/features.3/conv/conv.0/conv.0.0/Conv + /features/features.3/conv/conv.0/conv.0.2/Clip", "timeMs" : 72.0145, "averageMs" : 0.0341301, "percentage" : 2.43764 }
+, { "name" : "/features/features.3/conv/conv.1/conv.1.0/Conv + /features/features.3/conv/conv.1/conv.1.2/Clip", "timeMs" : 110.499, "averageMs" : 0.0523692, "percentage" : 3.74031 }
+, { "name" : "/features/features.3/conv/conv.2/Conv + /features/features.3/Add", "timeMs" : 60.6759, "averageMs" : 0.0287563, "percentage" : 2.05384 }
+, { "name" : "/features/features.4/conv/conv.0/conv.0.0/Conv + /features/features.4/conv/conv.0/conv.0.2/Clip", "timeMs" : 68.5017, "averageMs" : 0.0324653, "percentage" : 2.31874 }
+, { "name" : "/features/features.4/conv/conv.1/conv.1.0/Conv + /features/features.4/conv/conv.1/conv.1.2/Clip", "timeMs" : 75.6493, "averageMs" : 0.0358527, "percentage" : 2.56068 }
+, { "name" : "/features/features.4/conv/conv.2/Conv", "timeMs" : 29.6819, "averageMs" : 0.0140672, "percentage" : 1.00471 }
+, { "name" : "/features/features.5/conv/conv.0/conv.0.0/Conv + /features/features.5/conv/conv.0/conv.0.2/Clip", "timeMs" : 49.7046, "averageMs" : 0.0235567, "percentage" : 1.68246 }
+, { "name" : "/features/features.5/conv/conv.1/conv.1.0/Conv + /features/features.5/conv/conv.1/conv.1.2/Clip", "timeMs" : 50.5366, "averageMs" : 0.023951, "percentage" : 1.71063 }
+, { "name" : "/features/features.5/conv/conv.2/Conv + /features/features.5/Add", "timeMs" : 37.3258, "averageMs" : 0.01769, "percentage" : 1.26345 }
+, { "name" : "/features/features.6/conv/conv.0/conv.0.0/Conv + /features/features.6/conv/conv.0/conv.0.2/Clip", "timeMs" : 33.5283, "averageMs" : 0.0158902, "percentage" : 1.13491 }
+, { "name" : "/features/features.6/conv/conv.1/conv.1.0/Conv + /features/features.6/conv/conv.1/conv.1.2/Clip", "timeMs" : 49.1799, "averageMs" : 0.023308, "percentage" : 1.66471 }
+, { "name" : "/features/features.6/conv/conv.2/Conv + /features/features.6/Add", "timeMs" : 32.1858, "averageMs" : 0.015254, "percentage" : 1.08947 }
+, { "name" : "/features/features.7/conv/conv.0/conv.0.0/Conv + /features/features.7/conv/conv.0/conv.0.2/Clip", "timeMs" : 33.5262, "averageMs" : 0.0158892, "percentage" : 1.13484 }
+, { "name" : "/features/features.7/conv/conv.1/conv.1.0/Conv + /features/features.7/conv/conv.1/conv.1.2/Clip", "timeMs" : 32.6073, "averageMs" : 0.0154537, "percentage" : 1.10373 }
+, { "name" : "/features/features.7/conv/conv.2/Conv", "timeMs" : 33.1354, "averageMs" : 0.015704, "percentage" : 1.12161 }
+, { "name" : "/features/features.8/conv/conv.0/conv.0.0/Conv + /features/features.8/conv/conv.0/conv.0.2/Clip", "timeMs" : 38.733, "averageMs" : 0.0183569, "percentage" : 1.31108 }
+, { "name" : "/features/features.8/conv/conv.1/conv.1.0/Conv + /features/features.8/conv/conv.1/conv.1.2/Clip", "timeMs" : 33.4687, "averageMs" : 0.0158619, "percentage" : 1.13289 }
+, { "name" : "/features/features.8/conv/conv.2/Conv + /features/features.8/Add", "timeMs" : 37.3212, "averageMs" : 0.0176878, "percentage" : 1.2633 }
+, { "name" : "/features/features.9/conv/conv.0/conv.0.0/Conv + /features/features.9/conv/conv.0/conv.0.2/Clip", "timeMs" : 31.4979, "averageMs" : 0.0149279, "percentage" : 1.06618 }
+, { "name" : "/features/features.9/conv/conv.1/conv.1.0/Conv + /features/features.9/conv/conv.1/conv.1.2/Clip", "timeMs" : 33.6422, "averageMs" : 0.0159442, "percentage" : 1.13877 }
+, { "name" : "/features/features.9/conv/conv.2/Conv + /features/features.9/Add", "timeMs" : 34.921, "averageMs" : 0.0165502, "percentage" : 1.18205 }
+, { "name" : "/features/features.10/conv/conv.0/conv.0.0/Conv + /features/features.10/conv/conv.0/conv.0.2/Clip", "timeMs" : 33.5105, "averageMs" : 0.0158818, "percentage" : 1.13431 }
+, { "name" : "/features/features.10/conv/conv.1/conv.1.0/Conv + /features/features.10/conv/conv.1/conv.1.2/Clip", "timeMs" : 33.5405, "averageMs" : 0.015896, "percentage" : 1.13532 }
+, { "name" : "/features/features.10/conv/conv.2/Conv + /features/features.10/Add", "timeMs" : 37.4407, "averageMs" : 0.0177444, "percentage" : 1.26734 }
+, { "name" : "/features/features.11/conv/conv.0/conv.0.0/Conv + /features/features.11/conv/conv.0/conv.0.2/Clip", "timeMs" : 35.6439, "averageMs" : 0.0168928, "percentage" : 1.20652 }
+, { "name" : "/features/features.11/conv/conv.1/conv.1.0/Conv + /features/features.11/conv/conv.1/conv.1.2/Clip", "timeMs" : 33.8209, "averageMs" : 0.0160289, "percentage" : 1.14481 }
+, { "name" : "/features/features.11/conv/conv.2/Conv", "timeMs" : 50.2121, "averageMs" : 0.0237972, "percentage" : 1.69965 }
+, { "name" : "/features/features.12/conv/conv.0/conv.0.0/Conv + /features/features.12/conv/conv.0/conv.0.2/Clip", "timeMs" : 58.5098, "averageMs" : 0.0277297, "percentage" : 1.98052 }
+, { "name" : "/features/features.12/conv/conv.1/conv.1.0/Conv + /features/features.12/conv/conv.1/conv.1.2/Clip", "timeMs" : 40.6759, "averageMs" : 0.0192777, "percentage" : 1.37685 }
+, { "name" : "/features/features.12/conv/conv.2/Conv + /features/features.12/Add", "timeMs" : 53.9095, "averageMs" : 0.0255495, "percentage" : 1.8248 }
+, { "name" : "/features/features.13/conv/conv.0/conv.0.0/Conv + /features/features.13/conv/conv.0/conv.0.2/Clip", "timeMs" : 45.4495, "averageMs" : 0.02154, "percentage" : 1.53843 }
+, { "name" : "/features/features.13/conv/conv.1/conv.1.0/Conv + /features/features.13/conv/conv.1/conv.1.2/Clip", "timeMs" : 41.2294, "averageMs" : 0.01954, "percentage" : 1.39559 }
+, { "name" : "/features/features.13/conv/conv.2/Conv + /features/features.13/Add", "timeMs" : 51.3288, "averageMs" : 0.0243264, "percentage" : 1.73744 }
+, { "name" : "/features/features.14/conv/conv.0/conv.0.0/Conv + /features/features.14/conv/conv.0/conv.0.2/Clip", "timeMs" : 46.6608, "averageMs" : 0.0221141, "percentage" : 1.57944 }
+, { "name" : "/features/features.14/conv/conv.1/conv.1.0/Conv + /features/features.14/conv/conv.1/conv.1.2/Clip", "timeMs" : 34.8359, "averageMs" : 0.0165099, "percentage" : 1.17917 }
+, { "name" : "/features/features.14/conv/conv.2/Conv", "timeMs" : 51.9213, "averageMs" : 0.0246072, "percentage" : 1.7575 }
+, { "name" : "/features/features.15/conv/conv.0/conv.0.0/Conv + /features/features.15/conv/conv.0/conv.0.2/Clip", "timeMs" : 60.874, "averageMs" : 0.0288502, "percentage" : 2.06054 }
+, { "name" : "/features/features.15/conv/conv.1/conv.1.0/Conv + /features/features.15/conv/conv.1/conv.1.2/Clip", "timeMs" : 32.5202, "averageMs" : 0.0154124, "percentage" : 1.10079 }
+, { "name" : "/features/features.15/conv/conv.2/Conv + /features/features.15/Add", "timeMs" : 58.2916, "averageMs" : 0.0276263, "percentage" : 1.97313 }
+, { "name" : "/features/features.16/conv/conv.0/conv.0.0/Conv + /features/features.16/conv/conv.0/conv.0.2/Clip", "timeMs" : 42.6987, "averageMs" : 0.0202363, "percentage" : 1.44532 }
+, { "name" : "/features/features.16/conv/conv.1/conv.1.0/Conv + /features/features.16/conv/conv.1/conv.1.2/Clip", "timeMs" : 29.9002, "averageMs" : 0.0141707, "percentage" : 1.0121 }
+, { "name" : "/features/features.16/conv/conv.2/Conv + /features/features.16/Add", "timeMs" : 58.5511, "averageMs" : 0.0277493, "percentage" : 1.98191 }
+, { "name" : "/features/features.17/conv/conv.0/conv.0.0/Conv + /features/features.17/conv/conv.0/conv.0.2/Clip", "timeMs" : 42.1647, "averageMs" : 0.0199833, "percentage" : 1.42725 }
+, { "name" : "/features/features.17/conv/conv.1/conv.1.0/Conv + /features/features.17/conv/conv.1/conv.1.2/Clip", "timeMs" : 30.5696, "averageMs" : 0.0144879, "percentage" : 1.03476 }
+, { "name" : "/features/features.17/conv/conv.2/Conv", "timeMs" : 66.5107, "averageMs" : 0.0315217, "percentage" : 2.25134 }
+, { "name" : "/features/features.18/features.18.0/Conv + /features/features.18/features.18.2/Clip", "timeMs" : 58.9476, "averageMs" : 0.0279372, "percentage" : 1.99533 }
+, { "name" : "/GlobalAveragePool", "timeMs" : 38.4571, "averageMs" : 0.0182261, "percentage" : 1.30175 }
+, { "name" : "/classifier/classifier.1/Gemm", "timeMs" : 88.1494, "averageMs" : 0.0417769, "percentage" : 2.9838 }
+, { "name" : "Reformatting CopyNode for Input Tensor 0 to (Unnamed Layer* 114) [Shuffle]", "timeMs" : 14.4626, "averageMs" : 0.00685434, "percentage" : 0.489551 }
+]

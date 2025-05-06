@@ -1,0 +1,58 @@
+[
+  { "count" : 2941 }
+, { "name" : "Reformatting CopyNode for Input Tensor 0 to /features/features.0/features.0.0/Conv + /features/features.0/features.0.2/Clip", "timeMs" : 48.4245, "averageMs" : 0.0164653, "percentage" : 1.66123 }
+, { "name" : "/features/features.0/features.0.0/Conv + /features/features.0/features.0.2/Clip", "timeMs" : 114.192, "averageMs" : 0.0388277, "percentage" : 3.91741 }
+, { "name" : "/features/features.1/conv/conv.0/conv.0.0/Conv + /features/features.1/conv/conv.0/conv.0.2/Clip", "timeMs" : 74.4642, "averageMs" : 0.0253193, "percentage" : 2.55453 }
+, { "name" : "/features/features.1/conv/conv.1/Conv", "timeMs" : 84.3583, "averageMs" : 0.0286835, "percentage" : 2.89395 }
+, { "name" : "/features/features.2/conv/conv.0/conv.0.0/Conv + /features/features.2/conv/conv.0/conv.0.2/Clip", "timeMs" : 155.21, "averageMs" : 0.0527745, "percentage" : 5.32454 }
+, { "name" : "/features/features.2/conv/conv.1/conv.1.0/Conv + /features/features.2/conv/conv.1/conv.1.2/Clip", "timeMs" : 95.2265, "averageMs" : 0.032379, "percentage" : 3.26679 }
+, { "name" : "/features/features.2/conv/conv.2/Conv", "timeMs" : 53.7731, "averageMs" : 0.018284, "percentage" : 1.84471 }
+, { "name" : "/features/features.3/conv/conv.0/conv.0.0/Conv + /features/features.3/conv/conv.0/conv.0.2/Clip", "timeMs" : 80.1404, "averageMs" : 0.0272494, "percentage" : 2.74925 }
+, { "name" : "/features/features.3/conv/conv.1/conv.1.0/Conv + /features/features.3/conv/conv.1/conv.1.2/Clip", "timeMs" : 79.1212, "averageMs" : 0.0269028, "percentage" : 2.71429 }
+, { "name" : "/features/features.3/conv/conv.2/Conv + /features/features.3/Add", "timeMs" : 55.8759, "averageMs" : 0.0189989, "percentage" : 1.91685 }
+, { "name" : "/features/features.4/conv/conv.0/conv.0.0/Conv + /features/features.4/conv/conv.0/conv.0.2/Clip", "timeMs" : 79.2021, "averageMs" : 0.0269303, "percentage" : 2.71706 }
+, { "name" : "/features/features.4/conv/conv.1/conv.1.0/Conv + /features/features.4/conv/conv.1/conv.1.2/Clip", "timeMs" : 53.5937, "averageMs" : 0.018223, "percentage" : 1.83856 }
+, { "name" : "/features/features.4/conv/conv.2/Conv", "timeMs" : 48.3732, "averageMs" : 0.0164479, "percentage" : 1.65947 }
+, { "name" : "/features/features.5/conv/conv.0/conv.0.0/Conv + /features/features.5/conv/conv.0/conv.0.2/Clip", "timeMs" : 58.4616, "averageMs" : 0.0198782, "percentage" : 2.00555 }
+, { "name" : "/features/features.5/conv/conv.1/conv.1.0/Conv + /features/features.5/conv/conv.1/conv.1.2/Clip", "timeMs" : 52.0459, "averageMs" : 0.0176967, "percentage" : 1.78546 }
+, { "name" : "/features/features.5/conv/conv.2/Conv + /features/features.5/Add", "timeMs" : 42.8115, "averageMs" : 0.0145568, "percentage" : 1.46867 }
+, { "name" : "/features/features.6/conv/conv.0/conv.0.0/Conv + /features/features.6/conv/conv.0/conv.0.2/Clip", "timeMs" : 41.4914, "averageMs" : 0.0141079, "percentage" : 1.42338 }
+, { "name" : "/features/features.6/conv/conv.1/conv.1.0/Conv + /features/features.6/conv/conv.1/conv.1.2/Clip", "timeMs" : 41.6281, "averageMs" : 0.0141544, "percentage" : 1.42807 }
+, { "name" : "/features/features.6/conv/conv.2/Conv + /features/features.6/Add", "timeMs" : 33.4465, "averageMs" : 0.0113725, "percentage" : 1.1474 }
+, { "name" : "/features/features.7/conv/conv.0/conv.0.0/Conv + /features/features.7/conv/conv.0/conv.0.2/Clip", "timeMs" : 41.3515, "averageMs" : 0.0140604, "percentage" : 1.41858 }
+, { "name" : "/features/features.7/conv/conv.1/conv.1.0/Conv + /features/features.7/conv/conv.1/conv.1.2/Clip", "timeMs" : 36.8495, "averageMs" : 0.0125296, "percentage" : 1.26414 }
+, { "name" : "/features/features.7/conv/conv.2/Conv", "timeMs" : 38.8052, "averageMs" : 0.0131946, "percentage" : 1.33123 }
+, { "name" : "/features/features.8/conv/conv.0/conv.0.0/Conv + /features/features.8/conv/conv.0/conv.0.2/Clip", "timeMs" : 40.3656, "averageMs" : 0.0137251, "percentage" : 1.38476 }
+, { "name" : "/features/features.8/conv/conv.1/conv.1.0/Conv + /features/features.8/conv/conv.1/conv.1.2/Clip", "timeMs" : 39.3164, "averageMs" : 0.0133684, "percentage" : 1.34877 }
+, { "name" : "/features/features.8/conv/conv.2/Conv + /features/features.8/Add", "timeMs" : 53.4505, "averageMs" : 0.0181742, "percentage" : 1.83364 }
+, { "name" : "/features/features.9/conv/conv.0/conv.0.0/Conv + /features/features.9/conv/conv.0/conv.0.2/Clip", "timeMs" : 34.5723, "averageMs" : 0.0117553, "percentage" : 1.18602 }
+, { "name" : "/features/features.9/conv/conv.1/conv.1.0/Conv + /features/features.9/conv/conv.1/conv.1.2/Clip", "timeMs" : 31.8978, "averageMs" : 0.0108459, "percentage" : 1.09427 }
+, { "name" : "/features/features.9/conv/conv.2/Conv + /features/features.9/Add", "timeMs" : 40.5113, "averageMs" : 0.0137747, "percentage" : 1.38976 }
+, { "name" : "/features/features.10/conv/conv.0/conv.0.0/Conv + /features/features.10/conv/conv.0/conv.0.2/Clip", "timeMs" : 34.8846, "averageMs" : 0.0118615, "percentage" : 1.19673 }
+, { "name" : "/features/features.10/conv/conv.1/conv.1.0/Conv + /features/features.10/conv/conv.1/conv.1.2/Clip", "timeMs" : 32.9188, "averageMs" : 0.0111931, "percentage" : 1.12929 }
+, { "name" : "/features/features.10/conv/conv.2/Conv + /features/features.10/Add", "timeMs" : 40.9068, "averageMs" : 0.0139092, "percentage" : 1.40333 }
+, { "name" : "/features/features.11/conv/conv.0/conv.0.0/Conv + /features/features.11/conv/conv.0/conv.0.2/Clip", "timeMs" : 34.9601, "averageMs" : 0.0118871, "percentage" : 1.19932 }
+, { "name" : "/features/features.11/conv/conv.1/conv.1.0/Conv + /features/features.11/conv/conv.1/conv.1.2/Clip", "timeMs" : 32.1277, "averageMs" : 0.0109241, "percentage" : 1.10215 }
+, { "name" : "/features/features.11/conv/conv.2/Conv", "timeMs" : 50.78, "averageMs" : 0.0172663, "percentage" : 1.74203 }
+, { "name" : "/features/features.12/conv/conv.0/conv.0.0/Conv + /features/features.12/conv/conv.0/conv.0.2/Clip", "timeMs" : 62.4228, "averageMs" : 0.021225, "percentage" : 2.14144 }
+, { "name" : "/features/features.12/conv/conv.1/conv.1.0/Conv + /features/features.12/conv/conv.1/conv.1.2/Clip", "timeMs" : 37.6293, "averageMs" : 0.0127947, "percentage" : 1.29089 }
+, { "name" : "/features/features.12/conv/conv.2/Conv + /features/features.12/Add", "timeMs" : 51.9562, "averageMs" : 0.0176662, "percentage" : 1.78238 }
+, { "name" : "/features/features.13/conv/conv.0/conv.0.0/Conv + /features/features.13/conv/conv.0/conv.0.2/Clip", "timeMs" : 48.5006, "averageMs" : 0.0164912, "percentage" : 1.66383 }
+, { "name" : "/features/features.13/conv/conv.1/conv.1.0/Conv + /features/features.13/conv/conv.1/conv.1.2/Clip", "timeMs" : 38.2239, "averageMs" : 0.0129969, "percentage" : 1.31129 }
+, { "name" : "/features/features.13/conv/conv.2/Conv + /features/features.13/Add", "timeMs" : 51.1131, "averageMs" : 0.0173795, "percentage" : 1.75346 }
+, { "name" : "/features/features.14/conv/conv.0/conv.0.0/Conv + /features/features.14/conv/conv.0/conv.0.2/Clip", "timeMs" : 48.8341, "averageMs" : 0.0166046, "percentage" : 1.67528 }
+, { "name" : "/features/features.14/conv/conv.1/conv.1.0/Conv + /features/features.14/conv/conv.1/conv.1.2/Clip", "timeMs" : 38.4951, "averageMs" : 0.0130891, "percentage" : 1.32059 }
+, { "name" : "/features/features.14/conv/conv.2/Conv", "timeMs" : 50.9975, "averageMs" : 0.0173402, "percentage" : 1.74949 }
+, { "name" : "/features/features.15/conv/conv.0/conv.0.0/Conv + /features/features.15/conv/conv.0/conv.0.2/Clip", "timeMs" : 47.8307, "averageMs" : 0.0162634, "percentage" : 1.64086 }
+, { "name" : "/features/features.15/conv/conv.1/conv.1.0/Conv + /features/features.15/conv/conv.1/conv.1.2/Clip", "timeMs" : 32.0732, "averageMs" : 0.0109055, "percentage" : 1.10029 }
+, { "name" : "/features/features.15/conv/conv.2/Conv + /features/features.15/Add", "timeMs" : 70.1796, "averageMs" : 0.0238625, "percentage" : 2.40754 }
+, { "name" : "/features/features.16/conv/conv.0/conv.0.0/Conv + /features/features.16/conv/conv.0/conv.0.2/Clip", "timeMs" : 38.1869, "averageMs" : 0.0129843, "percentage" : 1.31002 }
+, { "name" : "/features/features.16/conv/conv.1/conv.1.0/Conv + /features/features.16/conv/conv.1/conv.1.2/Clip", "timeMs" : 27.9246, "averageMs" : 0.00949494, "percentage" : 0.957967 }
+, { "name" : "/features/features.16/conv/conv.2/Conv + /features/features.16/Add", "timeMs" : 63.8131, "averageMs" : 0.0216978, "percentage" : 2.18914 }
+, { "name" : "/features/features.17/conv/conv.0/conv.0.0/Conv + /features/features.17/conv/conv.0/conv.0.2/Clip", "timeMs" : 38.3591, "averageMs" : 0.0130429, "percentage" : 1.31593 }
+, { "name" : "/features/features.17/conv/conv.1/conv.1.0/Conv + /features/features.17/conv/conv.1/conv.1.2/Clip", "timeMs" : 27.7098, "averageMs" : 0.00942189, "percentage" : 0.950596 }
+, { "name" : "/features/features.17/conv/conv.2/Conv", "timeMs" : 81.3034, "averageMs" : 0.0276448, "percentage" : 2.78915 }
+, { "name" : "/features/features.18/features.18.0/Conv + /features/features.18/features.18.2/Clip", "timeMs" : 51.421, "averageMs" : 0.0174842, "percentage" : 1.76402 }
+, { "name" : "/GlobalAveragePool", "timeMs" : 54.9514, "averageMs" : 0.0186846, "percentage" : 1.88513 }
+, { "name" : "/classifier/classifier.1/Gemm", "timeMs" : 77.5248, "averageMs" : 0.02636, "percentage" : 2.65953 }
+]

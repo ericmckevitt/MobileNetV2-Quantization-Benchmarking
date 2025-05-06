@@ -1,0 +1,61 @@
+[
+  { "count" : 2625 }
+, { "name" : "Reformatting CopyNode for Input Tensor 0 to /features/features.0/features.0.0/Conv + PWN(/features/features.0/features.0.2/Clip)", "timeMs" : 60.4134, "averageMs" : 0.0230146, "medianMs" : 0.022272, "percentage" : 2.00083 }
+, { "name" : "/features/features.0/features.0.0/Conv + PWN(/features/features.0/features.0.2/Clip)", "timeMs" : 72.0025, "averageMs" : 0.0274295, "medianMs" : 0.026944, "percentage" : 2.38465 }
+, { "name" : "/features/features.1/conv/conv.0/conv.0.0/Conv + PWN(/features/features.1/conv/conv.0/conv.0.2/Clip)", "timeMs" : 110.046, "averageMs" : 0.0419223, "medianMs" : 0.041024, "percentage" : 3.64462 }
+, { "name" : "/features/features.1/conv/conv.1/Conv", "timeMs" : 48.0056, "averageMs" : 0.0182878, "medianMs" : 0.017984, "percentage" : 1.5899 }
+, { "name" : "/features/features.2/conv/conv.0/conv.0.0/Conv + PWN(/features/features.2/conv/conv.0/conv.0.2/Clip)", "timeMs" : 132.515, "averageMs" : 0.0504819, "medianMs" : 0.049696, "percentage" : 4.38876 }
+, { "name" : "/features/features.2/conv/conv.1/conv.1.0/Conv + PWN(/features/features.2/conv/conv.1/conv.1.2/Clip)", "timeMs" : 176.936, "averageMs" : 0.0674043, "medianMs" : 0.066816, "percentage" : 5.85995 }
+, { "name" : "/features/features.2/conv/conv.2/Conv", "timeMs" : 48.0903, "averageMs" : 0.0183201, "medianMs" : 0.018016, "percentage" : 1.5927 }
+, { "name" : "/features/features.3/conv/conv.0/conv.0.0/Conv + PWN(/features/features.3/conv/conv.0/conv.0.2/Clip)", "timeMs" : 67.7529, "averageMs" : 0.0258106, "medianMs" : 0.025408, "percentage" : 2.24391 }
+, { "name" : "/features/features.3/conv/conv.1/conv.1.0/Conv + PWN(/features/features.3/conv/conv.1/conv.1.2/Clip)", "timeMs" : 122.767, "averageMs" : 0.0467683, "medianMs" : 0.04576, "percentage" : 4.06592 }
+, { "name" : "/features/features.3/conv/conv.2/Conv + /features/features.3/Add", "timeMs" : 61.2715, "averageMs" : 0.0233415, "medianMs" : 0.022976, "percentage" : 2.02925 }
+, { "name" : "/features/features.4/conv/conv.0/conv.0.0/Conv + PWN(/features/features.4/conv/conv.0/conv.0.2/Clip)", "timeMs" : 67.9571, "averageMs" : 0.0258884, "medianMs" : 0.02544, "percentage" : 2.25067 }
+, { "name" : "/features/features.4/conv/conv.1/conv.1.0/Conv + PWN(/features/features.4/conv/conv.1/conv.1.2/Clip)", "timeMs" : 55.4234, "averageMs" : 0.0211137, "medianMs" : 0.020704, "percentage" : 1.83557 }
+, { "name" : "/features/features.4/conv/conv.2/Conv", "timeMs" : 37.3013, "averageMs" : 0.01421, "medianMs" : 0.013984, "percentage" : 1.23538 }
+, { "name" : "/features/features.5/conv/conv.0/conv.0.0/Conv + PWN(/features/features.5/conv/conv.0/conv.0.2/Clip)", "timeMs" : 42.7747, "averageMs" : 0.0162951, "medianMs" : 0.016064, "percentage" : 1.41665 }
+, { "name" : "/features/features.5/conv/conv.1/conv.1.0/Conv + PWN(/features/features.5/conv/conv.1/conv.1.2/Clip)", "timeMs" : 55.4885, "averageMs" : 0.0211385, "medianMs" : 0.020768, "percentage" : 1.83772 }
+, { "name" : "/features/features.5/conv/conv.2/Conv + /features/features.5/Add", "timeMs" : 42.5837, "averageMs" : 0.0162224, "medianMs" : 0.016, "percentage" : 1.41033 }
+, { "name" : "/features/features.6/conv/conv.0/conv.0.0/Conv + PWN(/features/features.6/conv/conv.0/conv.0.2/Clip)", "timeMs" : 40.9903, "averageMs" : 0.0156154, "medianMs" : 0.015424, "percentage" : 1.35756 }
+, { "name" : "/features/features.6/conv/conv.1/conv.1.0/Conv + PWN(/features/features.6/conv/conv.1/conv.1.2/Clip)", "timeMs" : 55.648, "averageMs" : 0.0211992, "medianMs" : 0.020832, "percentage" : 1.84301 }
+, { "name" : "/features/features.6/conv/conv.2/Conv + /features/features.6/Add", "timeMs" : 37.7293, "averageMs" : 0.0143731, "medianMs" : 0.01408, "percentage" : 1.24956 }
+, { "name" : "/features/features.7/conv/conv.0/conv.0.0/Conv + PWN(/features/features.7/conv/conv.0/conv.0.2/Clip)", "timeMs" : 42.1497, "averageMs" : 0.016057, "medianMs" : 0.01584, "percentage" : 1.39596 }
+, { "name" : "/features/features.7/conv/conv.1/conv.1.0/Conv + PWN(/features/features.7/conv/conv.1/conv.1.2/Clip)", "timeMs" : 33.1425, "averageMs" : 0.0126257, "medianMs" : 0.012384, "percentage" : 1.09765 }
+, { "name" : "/features/features.7/conv/conv.2/Conv", "timeMs" : 34.3815, "averageMs" : 0.0130977, "medianMs" : 0.012928, "percentage" : 1.13868 }
+, { "name" : "/features/features.8/conv/conv.0/conv.0.0/Conv + PWN(/features/features.8/conv/conv.0/conv.0.2/Clip)", "timeMs" : 40.5043, "averageMs" : 0.0154302, "medianMs" : 0.015168, "percentage" : 1.34146 }
+, { "name" : "/features/features.8/conv/conv.1/conv.1.0/Conv + PWN(/features/features.8/conv/conv.1/conv.1.2/Clip)", "timeMs" : 40.2972, "averageMs" : 0.0153513, "medianMs" : 0.015104, "percentage" : 1.3346 }
+, { "name" : "/features/features.8/conv/conv.2/Conv + /features/features.8/Add", "timeMs" : 39.5699, "averageMs" : 0.0150743, "medianMs" : 0.014848, "percentage" : 1.31052 }
+, { "name" : "/features/features.9/conv/conv.0/conv.0.0/Conv + PWN(/features/features.9/conv/conv.0/conv.0.2/Clip)", "timeMs" : 36.8661, "averageMs" : 0.0140442, "medianMs" : 0.013792, "percentage" : 1.22097 }
+, { "name" : "/features/features.9/conv/conv.1/conv.1.0/Conv + PWN(/features/features.9/conv/conv.1/conv.1.2/Clip)", "timeMs" : 40.0227, "averageMs" : 0.0152467, "medianMs" : 0.01504, "percentage" : 1.32551 }
+, { "name" : "/features/features.9/conv/conv.2/Conv + /features/features.9/Add", "timeMs" : 36.9818, "averageMs" : 0.0140883, "medianMs" : 0.013856, "percentage" : 1.2248 }
+, { "name" : "/features/features.10/conv/conv.0/conv.0.0/Conv + PWN(/features/features.10/conv/conv.0/conv.0.2/Clip)", "timeMs" : 37.3587, "averageMs" : 0.0142319, "medianMs" : 0.013952, "percentage" : 1.23728 }
+, { "name" : "/features/features.10/conv/conv.1/conv.1.0/Conv + PWN(/features/features.10/conv/conv.1/conv.1.2/Clip)", "timeMs" : 39.9869, "averageMs" : 0.0152331, "medianMs" : 0.014976, "percentage" : 1.32433 }
+, { "name" : "/features/features.10/conv/conv.2/Conv + /features/features.10/Add", "timeMs" : 36.4476, "averageMs" : 0.0138848, "medianMs" : 0.013664, "percentage" : 1.20711 }
+, { "name" : "/features/features.11/conv/conv.0/conv.0.0/Conv + PWN(/features/features.11/conv/conv.0/conv.0.2/Clip)", "timeMs" : 37.6554, "averageMs" : 0.0143449, "medianMs" : 0.014112, "percentage" : 1.24711 }
+, { "name" : "/features/features.11/conv/conv.1/conv.1.0/Conv + PWN(/features/features.11/conv/conv.1/conv.1.2/Clip)", "timeMs" : 39.9661, "averageMs" : 0.0152252, "medianMs" : 0.015008, "percentage" : 1.32364 }
+, { "name" : "/features/features.11/conv/conv.2/Conv", "timeMs" : 40.6612, "averageMs" : 0.01549, "medianMs" : 0.015168, "percentage" : 1.34666 }
+, { "name" : "/features/features.12/conv/conv.0/conv.0.0/Conv + PWN(/features/features.12/conv/conv.0/conv.0.2/Clip)", "timeMs" : 55.1225, "averageMs" : 0.020999, "medianMs" : 0.020672, "percentage" : 1.8256 }
+, { "name" : "/features/features.12/conv/conv.1/conv.1.0/Conv + PWN(/features/features.12/conv/conv.1/conv.1.2/Clip)", "timeMs" : 48.5315, "averageMs" : 0.0184882, "medianMs" : 0.018208, "percentage" : 1.60732 }
+, { "name" : "/features/features.12/conv/conv.2/Conv + /features/features.12/Add", "timeMs" : 43.6656, "averageMs" : 0.0166345, "medianMs" : 0.016352, "percentage" : 1.44616 }
+, { "name" : "/features/features.13/conv/conv.0/conv.0.0/Conv + PWN(/features/features.13/conv/conv.0/conv.0.2/Clip)", "timeMs" : 52.8969, "averageMs" : 0.0201512, "medianMs" : 0.019904, "percentage" : 1.75189 }
+, { "name" : "/features/features.13/conv/conv.1/conv.1.0/Conv + PWN(/features/features.13/conv/conv.1/conv.1.2/Clip)", "timeMs" : 48.0735, "averageMs" : 0.0183137, "medianMs" : 0.018048, "percentage" : 1.59215 }
+, { "name" : "/features/features.13/conv/conv.2/Conv + /features/features.13/Add", "timeMs" : 44.2844, "averageMs" : 0.0168702, "medianMs" : 0.016576, "percentage" : 1.46666 }
+, { "name" : "/features/features.14/conv/conv.0/conv.0.0/Conv + PWN(/features/features.14/conv/conv.0/conv.0.2/Clip)", "timeMs" : 51.5541, "averageMs" : 0.0196396, "medianMs" : 0.019296, "percentage" : 1.70742 }
+, { "name" : "/features/features.14/conv/conv.1/conv.1.0/Conv + PWN(/features/features.14/conv/conv.1/conv.1.2/Clip)", "timeMs" : 34.3758, "averageMs" : 0.0130955, "medianMs" : 0.012896, "percentage" : 1.13849 }
+, { "name" : "/features/features.14/conv/conv.2/Conv", "timeMs" : 43.3475, "averageMs" : 0.0165133, "medianMs" : 0.01632, "percentage" : 1.43563 }
+, { "name" : "/features/features.15/conv/conv.0/conv.0.0/Conv + PWN(/features/features.15/conv/conv.0/conv.0.2/Clip)", "timeMs" : 50.9758, "averageMs" : 0.0194193, "medianMs" : 0.019168, "percentage" : 1.68827 }
+, { "name" : "/features/features.15/conv/conv.1/conv.1.0/Conv + PWN(/features/features.15/conv/conv.1/conv.1.2/Clip)", "timeMs" : 36.9475, "averageMs" : 0.0140752, "medianMs" : 0.01376, "percentage" : 1.22366 }
+, { "name" : "/features/features.15/conv/conv.2/Conv + /features/features.15/Add", "timeMs" : 51.3376, "averageMs" : 0.0195572, "medianMs" : 0.019296, "percentage" : 1.70025 }
+, { "name" : "/features/features.16/conv/conv.0/conv.0.0/Conv + PWN(/features/features.16/conv/conv.0/conv.0.2/Clip)", "timeMs" : 48.6448, "averageMs" : 0.0185313, "medianMs" : 0.018304, "percentage" : 1.61107 }
+, { "name" : "/features/features.16/conv/conv.1/conv.1.0/Conv + PWN(/features/features.16/conv/conv.1/conv.1.2/Clip)", "timeMs" : 37.3869, "averageMs" : 0.0142426, "medianMs" : 0.013856, "percentage" : 1.23822 }
+, { "name" : "/features/features.16/conv/conv.2/Conv + /features/features.16/Add", "timeMs" : 47.9441, "averageMs" : 0.0182644, "medianMs" : 0.018016, "percentage" : 1.58786 }
+, { "name" : "/features/features.17/conv/conv.0/conv.0.0/Conv + PWN(/features/features.17/conv/conv.0/conv.0.2/Clip)", "timeMs" : 49.0281, "averageMs" : 0.0186774, "medianMs" : 0.0184, "percentage" : 1.62376 }
+, { "name" : "/features/features.17/conv/conv.1/conv.1.0/Conv + PWN(/features/features.17/conv/conv.1/conv.1.2/Clip)", "timeMs" : 35.2398, "averageMs" : 0.0134247, "medianMs" : 0.01344, "percentage" : 1.16711 }
+, { "name" : "/features/features.17/conv/conv.2/Conv", "timeMs" : 57.9009, "averageMs" : 0.0220575, "medianMs" : 0.021696, "percentage" : 1.91762 }
+, { "name" : "/features/features.18/features.18.0/Conv + PWN(/features/features.18/features.18.2/Clip)", "timeMs" : 75.712, "averageMs" : 0.0288427, "medianMs" : 0.028352, "percentage" : 2.50751 }
+, { "name" : "/GlobalAveragePool", "timeMs" : 27.1172, "averageMs" : 0.0103304, "medianMs" : 0.010144, "percentage" : 0.898096 }
+, { "name" : "/classifier/classifier.1/Gemm", "timeMs" : 147.031, "averageMs" : 0.0560117, "medianMs" : 0.05552, "percentage" : 4.86951 }
+, { "name" : "Reformatting CopyNode for Input Tensor 0 to reshape_after_/classifier/classifier.1/Gemm", "timeMs" : 0, "averageMs" : 0, "medianMs" : 0, "percentage" : 0 }
+, { "name" : "reshape_after_/classifier/classifier.1/Gemm", "timeMs" : 0, "averageMs" : 0, "medianMs" : 0, "percentage" : 0 }
+, { "name" : "Reformatting CopyNode for Output Tensor 0 to reshape_after_/classifier/classifier.1/Gemm", "timeMs" : 20.6094, "averageMs" : 0.00785118, "medianMs" : 0.007712, "percentage" : 0.682561 }
+]
