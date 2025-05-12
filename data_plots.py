@@ -15,7 +15,7 @@ plt.ylabel('Throughput (qps)')
 plt.title('Throughput Comparison')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('throughput_comparison.png')
+plt.savefig('data/throughput_comparison.png')
 plt.close()
 
 # Mean Latency Comparison
@@ -25,7 +25,7 @@ plt.ylabel('Mean Latency (ms)')
 plt.title('Mean Latency Comparison')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('mean_latency_comparison.png')
+plt.savefig('img/mean_latency_comparison.png')
 plt.close()
 
 # GPU Compute Time Mean Comparison
@@ -35,7 +35,7 @@ plt.ylabel('GPU Compute Mean Time (ms)')
 plt.title('GPU Compute Time Comparison')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('gpu_compute_time_comparison.png')
+plt.savefig('img/gpu_compute_time_comparison.png')
 plt.close()
 
 # Enqueue Time Mean Comparison
@@ -45,7 +45,7 @@ plt.ylabel('Enqueue Mean Time (ms)')
 plt.title('Enqueue Time Comparison')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('enqueue_time_comparison.png')
+plt.savefig('img/enqueue_time_comparison.png')
 plt.close()
 
 # H2D Latency Mean Comparison
@@ -55,7 +55,7 @@ plt.ylabel('H2D Mean Latency (ms)')
 plt.title('Host-to-Device Latency Comparison')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('h2d_latency_comparison.png')
+plt.savefig('img/h2d_latency_comparison.png')
 plt.close()
 
 # D2H Latency Mean Comparison
@@ -65,7 +65,7 @@ plt.ylabel('D2H Mean Latency (ms)')
 plt.title('Device-to-Host Latency Comparison')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('d2h_latency_comparison.png')
+plt.savefig('img/d2h_latency_comparison.png')
 plt.close()
 
 # Total GPU Compute Time Comparison
@@ -75,7 +75,7 @@ plt.ylabel('Total GPU Compute Time (s)')
 plt.title('Total GPU Compute Time')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('total_gpu_compute_time.png')
+plt.savefig('img/total_gpu_compute_time.png')
 plt.close()
 
 # Total Host Walltime Comparison
@@ -85,7 +85,7 @@ plt.ylabel('Total Host Walltime (s)')
 plt.title('Total Host Walltime')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('total_host_walltime.png')
+plt.savefig('img/total_host_walltime.png')
 plt.close()
 
 # Quantized vs Full-Precision Improvements
